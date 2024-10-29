@@ -1,4 +1,3 @@
-<img align="right" height="390em" src="https://raw.githubusercontent.com/gist/Myrellaaraujo/c109bf45cc0ea761c4b0a91049c25bdd/raw/0441662321a41ad737d677c2bf0cad1ed124bb21/githubcardprofile.svg"/>
 <h1 align="left">Hi, I'm Myrella Araújo </h1>
 
 -  🦋 Biology Student
